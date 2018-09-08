@@ -30,3 +30,10 @@ deps/lua/src/liblua.a
 .prerequisites
 *.dSYM
 Makefile.dep
+
+deps/jemalloc/Makefile
+deps/jemalloc/config.status
+deps/jemalloc/doc/html.xsl
+deps/jemalloc/doc/manpages.xsl
+deps/jemalloc/test/test.sh
+
